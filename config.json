@@ -1,0 +1,8 @@
+{
+  "ADAFRUIT_IO_USERNAME": "BI_B",
+  "ADAFRUIT_IO_KEY": "aio_mjSQ24HyCNXcTFPYhm96JPEDgEXU",
+  "security_check_interval": 5,
+  "security_send_interval": 30,
+  "env_interval": 20,
+  "flushing_interval": 10
+}

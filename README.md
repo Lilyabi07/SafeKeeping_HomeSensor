@@ -5,17 +5,22 @@ A modern, intelligent home assistance system using a Raspberry Pi 4B. The system
 Team: Bianca B.
 Adafruit Dashboard: https://io.adafruit.com/BI_B/dashboards/safekeeping-sensor-dashboard
 Public cloud folder link: ( showing uploaded daily files.)
+
 Short reflection (5–10 sentences):
+
 What worked,
 What was hardest, 
 What I would improve.
-Link to YouTube video (max 3 minutes) demonstrating:
-    A concise system overview and your code’s structure (modules, main loop, MQTT client, logging).
-    Executing the command on the Raspberry Pi to start your code (or show systemd status/start).
-    The app running without exceptions.
-    Local files being written with the correct date-stamped names and correct content format.
-    Live data visible on Adafruit IO dashboard (sensor graphs updating, controls toggling actuators).
-    Additionally, trigger a motion event and show alert + image capture. on the home security sensor
+
+
+Link to YouTube video (demo)
+"Lab 09_code run + Adafruit reaction (temperature)"
+https://slcqc-my.sharepoint.com/:v:/g/personal/1932648_champlaincollege_qc_ca1/EQpWRsBa_QNNuWn_RDwtgG8B5Nt5klRyDLU3CQC8I0rIFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=spB29k 
+
+"device reaction+ camera feed"
+https://slcqc-my.sharepoint.com/:v:/g/personal/1932648_champlaincollege_qc_ca1/EW9Rq1rgAGxFjJhptjAcAbABfT6JxOU6c47_pxSI4Sn5wA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tXscpF
+
+
 
 
 <img width="466" height="361" alt="Image" src="https://github.com/user-attachments/assets/103b158a-d391-474e-a35d-37861cb9c660" />

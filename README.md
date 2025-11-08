@@ -1,8 +1,11 @@
 # SafeKeeping_HomeSensor
-A modern, intelligent home assistance system using a Raspberry Pi 4B. The system uses motion, sound, and environmental sensors to detect intrusions .Final IoT project for H. Hichri  ; Fall 2025
+A modern, intelligent home assistance system using a Raspberry Pi 4B. The system uses motion, sound, and environmental sensors to detect intrusions .
+Final IoT project for H. Hichri  ; Fall 2025
+
 
 
 Team: Bianca B.
+
 Adafruit Dashboard: https://io.adafruit.com/BI_B/dashboards/safekeeping-sensor-dashboard
 Public cloud folder link: ( showing uploaded daily files.)
 
@@ -11,6 +14,8 @@ Short reflection (5–10 sentences):
 What worked,
 What was hardest, 
 What I would improve.
+
+Most of the devices themselved were very cooperative with the code, I found that once the installs were completed properly, I had no issue ( I was very worried about burning devices, but my setup yieldde cooperative results. The hardest thing aboutthis project was the structure itself, setting up files in a way that followed instructions and allowed for proper code run. The DHT11 sensor gave many import troubles (sys / venv import confusion). I would improve on how the LEDS function. right now, the red one blinks when motion is sensed, teh green one blinked if the temperature drops below 20C-25C and teh blue one stays on to show the system is functional. I will soon add a 'party time option for the lights to be more dynamic. 
 
 
 Link to YouTube video (demo)

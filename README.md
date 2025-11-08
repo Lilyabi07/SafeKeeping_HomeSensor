@@ -19,10 +19,10 @@ Most of the devices themselved were very cooperative with the code, I found that
 
 
 Link to YouTube video (demo)
-"Lab 09_code run + Adafruit reaction (temperature)"
+"Code run + Adafruit reaction (temperature)"
 https://slcqc-my.sharepoint.com/:v:/g/personal/1932648_champlaincollege_qc_ca1/EQpWRsBa_QNNuWn_RDwtgG8B5Nt5klRyDLU3CQC8I0rIFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=spB29k 
 
-"device reaction+ camera feed"
+"Device reaction + camera feed"
 https://slcqc-my.sharepoint.com/:v:/g/personal/1932648_champlaincollege_qc_ca1/EW9Rq1rgAGxFjJhptjAcAbABfT6JxOU6c47_pxSI4Sn5wA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tXscpF
 
 
